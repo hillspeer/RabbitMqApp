@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PasswordHelper",
+            "request": "launch",
+            "mainClass": "com.test.PasswordHelper",
+            "projectName": "rabbitmq"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Producer",
+            "request": "launch",
+            "mainClass": "com.test.Producer",
+            "projectName": "rabbitmq"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QueueConsumer",
+            "request": "launch",
+            "mainClass": "com.test.QueueConsumer"
+        }
+    ]
+}
